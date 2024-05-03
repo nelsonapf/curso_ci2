@@ -15,7 +15,7 @@ jobs:
       HOST: localhost
       DBPORT: 5432
       USER: root
-      PASWORD: root
+      PASSWORD: root
       DBNAME: root
 
     strategy:
